@@ -1,0 +1,6 @@
+add_executable(1_1 1_1.cc)
+add_executable(1_2 1_2.cc)
+add_executable(1_3 1_3.cc)
+add_executable(1_4 1_4.cc)
+add_executable(1_5 1_5.cc)
+add_executable(1_6 1_6.cc)
