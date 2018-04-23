@@ -2,7 +2,7 @@
 using std::cout; using std::endl;
 using std::initializer_list;
 
-int count(const initializer_list& list)
+int count(const initializer_list<int> &list)
 {
     auto sum = 0;
     for (auto i : list)
@@ -10,7 +10,7 @@ int count(const initializer_list& list)
     return sum;
 }
 
-int main(int argc, char *argv[])
+int main()
 {
     initializer_list<int> list{1, 2, 3, 4, 5};
     cout << count(list) << endl;
