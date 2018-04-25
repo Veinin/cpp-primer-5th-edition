@@ -1,0 +1,8 @@
+add_executable(8_4 8_4.cc)
+add_executable(8_6 8_6.cc)
+add_executable(8_7 8_7.cc)
+add_executable(8_8 8_8.cc)
+add_executable(8_9 8_9.cc)
+add_executable(8_10 8_10.cc)
+add_executable(8_11 8_11.cc)
+add_executable(8_13 8_13.cc)
