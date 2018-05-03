@@ -1,0 +1,6 @@
+add_executable(11_03 11_03.cc)
+add_executable(11_04 11_04.cc)
+add_executable(11_07 11_07.cc)
+add_executable(11_08 11_08.cc)
+add_executable(11_14 11_14.cc)
+add_executable(11_23 11_23.cc)
